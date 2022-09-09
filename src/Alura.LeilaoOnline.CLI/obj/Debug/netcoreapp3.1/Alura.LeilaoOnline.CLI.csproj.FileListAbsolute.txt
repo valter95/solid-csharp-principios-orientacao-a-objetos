@@ -4,7 +4,6 @@ C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alu
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.runtimeconfig.dev.json
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.dll
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.pdb
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.csprojAssemblyReference.cache
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.AssemblyInfoInputs.cache
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.AssemblyInfo.cs
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.csproj.CoreCompileInputs.cache
