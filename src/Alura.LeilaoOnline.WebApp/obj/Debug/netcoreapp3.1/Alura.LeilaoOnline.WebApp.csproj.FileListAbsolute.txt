@@ -138,4 +138,3 @@ C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alu
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.dll
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.pdb
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.genruntimeconfig.cache
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.csprojAssemblyReference.cache
