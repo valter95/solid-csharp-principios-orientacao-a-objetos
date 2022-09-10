@@ -1,3 +1,9 @@
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.AssemblyInfoInputs.cache
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.AssemblyInfo.cs
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.RazorAssemblyInfo.cache
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.RazorAssemblyInfo.cs
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\bin\Debug\netcoreapp3.1\libman.json
@@ -107,12 +113,6 @@ C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alu
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.AssemblyInfoInputs.cache
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.AssemblyInfo.cs
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.csproj.CoreCompileInputs.cache
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.RazorAssemblyInfo.cache
-C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.RazorAssemblyInfo.cs
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.TagHelpers.input.cache
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.TagHelpers.output.cache
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.RazorCoreGenerate.cache
@@ -138,3 +138,4 @@ C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alu
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.dll
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.pdb
 C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.genruntimeconfig.cache
+C:\Users\Valtinho\Programas\solid-csharp-principios-orientacao-a-objetos\src\Alura.LeilaoOnline.WebApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.WebApp.csprojAssemblyReference.cache
